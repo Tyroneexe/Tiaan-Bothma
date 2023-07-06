@@ -21,6 +21,7 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<br />
 
 #
 

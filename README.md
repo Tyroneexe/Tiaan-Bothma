@@ -8,6 +8,3 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
   <a href="https://www.instagram.com/roderbiker/?igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=Instagram"/></a>
 
-    
-![ alt text ](https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=Instagram)
-

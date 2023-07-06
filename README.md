@@ -13,4 +13,4 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
 
 ### 🔧 Languages
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />

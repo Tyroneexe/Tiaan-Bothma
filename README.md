@@ -9,7 +9,7 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
     <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=Instagram"/></a>
 
 
-### 🔧🔧 Languages
+### 🔧 Languages 🔧
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
@@ -23,6 +23,6 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
 
 #
 
-### 📈📈 Stats
+### 📈 Stats 📈
 
 ![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyroneexe&show_icons=true&theme=dracula)

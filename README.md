@@ -8,3 +8,9 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
   <a href="https://www.instagram.com/roderbiker/?igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=Instagram"/></a>
 
+
+---
+
+### 🔧 Languages
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>

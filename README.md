@@ -31,3 +31,7 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
 ### 📈 Stats 📈
 
 ![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyroneexe&show_icons=true&theme=dracula)
+
+### 🔊 Most used Languages 🔊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyroneexe)](https://github.com/anuraghazra/github-readme-stats)
